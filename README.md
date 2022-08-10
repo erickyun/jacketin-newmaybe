@@ -47,6 +47,4 @@ git push heroku master
 
 ![](https://images2.imgbox.com/f4/70/uPSbQT7H_o.jpg)
 
-## SUCCESS!
-![](https://images2.imgbox.com/dd/61/feCaRnOF_o.jpg)
 
